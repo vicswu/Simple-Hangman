@@ -6,19 +6,19 @@ Monday May 6th 2019
 AllDict = {} #Dictionary with all the words
 #read and store each text file. Add code for all 4 files.
 fp = open('animals.txt')
-animals = fp.read().split(" ")
+animals = fp.read().split(",")
 AllDict['animals'] = animals
 
 fp = open('colors.txt')
-colors = fp.read().split(" ")
+colors = fp.read().split(",")
 AllDict['colors'] = colors
 
 fp = open('shapes.txt')
-shapes = fp.read().split(" ")
+shapes = fp.read().split(",")
 AllDict['shapes'] = shapes
 
 fp = open('fruits.txt')
-fruits = fp.read().split(" ")
+fruits = fp.read().split(",")
 AllDict['fruits'] = fruits 
 
 
