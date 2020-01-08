@@ -1,0 +1,8 @@
+Elephant,Alligator,Alpaca,Anteater,Antelope,Horse,Baboon,Tiger,Bat,
+Beaver,Whale,Sheep,Goat,Bison,Bear,Rhino,Monkey,Shark,Boar,Bonobo,Dolphin,Buffalo
+Bull,Frog,Camel,Cheetah,Chipmunk,Seal,Cow,Crocodile,
+Donkey,Mouse,Platypus,Ferret,Fox,Gazelle,Panda,Giraffe,Gorilla,Turtle,
+Hedgehog,Hippopotamus,Hyena,Jellyfish,Weasel,Lion,Llama,Lynx,
+Manatee,Salamander,Mole,Moose,Octopus,Ox,Otter,Pig,Porcupine,Puma,
+Rabbit,Raccoon,Rat,Ray,Kangaroo,Reindeer,Skunk,Sloth,Squirrel,Snake,
+Tortoise,Wallaby,Walrus,Wildcat,Wolverine,Wolf,Wombat,Woodchuck,Yak,Zebra
