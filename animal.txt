@@ -1,8 +1,8 @@
-Elephant,Alligator,Alpaca,Anteater,Antelope,Horse,Baboon,Tiger,Bat,
-Beaver,Whale,Sheep,Goat,Bison,Bear,Rhino,Monkey,Shark,Boar,Bonobo,Dolphin,Buffalo
-Bull,Frog,Camel,Cheetah,Chipmunk,Seal,Cow,Crocodile,
-Donkey,Mouse,Platypus,Ferret,Fox,Gazelle,Panda,Giraffe,Gorilla,Turtle,
-Hedgehog,Hippopotamus,Hyena,Jellyfish,Weasel,Lion,Llama,Lynx,
-Manatee,Salamander,Mole,Moose,Octopus,Ox,Otter,Pig,Porcupine,Puma,
-Rabbit,Raccoon,Rat,Ray,Kangaroo,Reindeer,Skunk,Sloth,Squirrel,Snake,
-Tortoise,Wallaby,Walrus,Wildcat,Wolverine,Wolf,Wombat,Woodchuck,Yak,Zebra
+elephant,alligator,alpaca,anteater,antelope,horse,baboon,tiger,bat,
+beaver,whale,sheep,goat,bison,bear,rhino,monkey,shark,boar,bonobo,dolphin,buffalo
+bull,frog,camel,cheetah,chipmunk,seal,cow,crocodile,
+donkey,mouse,platypus,ferret,fox,gazelle,panda,giraffe,gorilla,turtle,
+hedgehog,hippopotamus,hyena,jellyfish,weasel,lion,llama,lynx,
+manatee,salamander,mole,moose,octopus,ox,otter,pig,porcupine,puma,
+rabbit,raccoon,rat,ray,kangaroo,reindeer,skunk,sloth,squirrel,snake,
+tortoise,wallaby,walrus,wildcat,wolverine,wolf,wombat,woodchuck,yak,zebra
