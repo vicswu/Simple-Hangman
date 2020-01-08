@@ -1,0 +1,3 @@
+Triangle,Square,Rectangle,Rhombus,Parallelogram,Circle,Oval,
+Heart,Cross,Arrow,Cube,Cylinder,Star,Crescent,Hexagon,Heptagon,
+Octagon,Nonagon,Decagon,Polygon
