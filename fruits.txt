@@ -1,0 +1,3 @@
+Apple,Apricot,Banana,Cantaloupe,Cherry,Date,Citrus,Avocado,Carrot,
+Guava,Lemon,Clementine,Grape,Grapefruit,Honeydew,Lime,Mango,Papaya,
+Peach,Pear,Pineapple,Plantain,Plum,Pomelo,Tangarine,Watermelon
