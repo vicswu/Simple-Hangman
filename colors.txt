@@ -1,0 +1,2 @@
+Red,Blue,Green,Yellow,Orange,Purple,Cyan,Beige,Black,White,Grey,
+Navy,Apricot,Olive,Mint,Maroon,Brown,Lavender,Teal,Pink,Lime,Magenta
